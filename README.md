@@ -1,0 +1,2 @@
+# doc
+Hadoop jargon file
